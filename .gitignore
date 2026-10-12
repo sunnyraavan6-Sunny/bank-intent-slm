@@ -1,0 +1,5 @@
+qwen-bank-intent-lora/
+checkpoint-*/
+.ipynb_checkpoints/
+__pycache__/
+.env
