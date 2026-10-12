@@ -2,7 +2,7 @@
 
 Fine-tuned **Qwen2.5-0.5B-Instruct** to classify customer banking queries into 77 intents and reply in strict JSON, e.g. `{"intent": "card_arrival"}`.
 
-**Model:** https://huggingface.co/Kishorekumar32/qwen2.5-0.5b-banking77-intent-lora
+**Model:** https://huggingface.co/Kishorekumar32/qwen2.5-0.5b-banking77-intent-lora |
 **Dataset:** https://huggingface.co/datasets/Kishorekumar32/banking77-intent-chat
 
 ## Results (official Banking77 test set, 3,076 examples)
