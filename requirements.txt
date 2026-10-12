@@ -1,0 +1,8 @@
+transformers==5.19.0
+peft==0.21.2
+trl==1.15.0
+datasets==5.1.0
+accelerate
+scikit-learn
+pandas
+huggingface_hub
