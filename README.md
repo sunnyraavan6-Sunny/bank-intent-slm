@@ -33,4 +33,4 @@ Short English queries only. The model always picks one of the 77 known intents, 
 
 Python, PyTorch, Hugging Face Transformers, PEFT, TRL, Datasets, scikit-learn, Google Colab. Built with AI-assisted coding.
 
-Author: Kishore kumar | LinkedIn: https://www.linkedin.com/in/kishore-kumar-telugu/?isSelfProfile=true
+Author: Kishore kumar | LinkedIn: https://www.linkedin.com/in/kishore-kumar-telugu/
